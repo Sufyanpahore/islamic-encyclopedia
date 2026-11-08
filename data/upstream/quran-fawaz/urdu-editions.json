@@ -1,0 +1,112 @@
+{
+  "source_repository": "https://github.com/fawazahmed0/quran-api",
+  "source_ref": "1",
+  "source_catalogue": "editions.min.json",
+  "imported_catalogue_path": "data/upstream/quran-fawaz/editions.min.json",
+  "editions": [
+    {
+      "id": "urd-abulaalamaududi-la",
+      "author": "Abul Ala Maududi",
+      "source": "quranromanurdu.com",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-abulaalamaududi-la.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-abulaalamaududi-la.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-abulaalamaududi",
+      "author": "Abul A Ala Maududi",
+      "source": "tanzil.net",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-abulaalamaududi.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-abulaalamaududi.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-ahmedali",
+      "author": "Ahmed Ali",
+      "source": "tanzil.net",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-ahmedali.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-ahmedali.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-fatehmuhammadja",
+      "author": "Fateh Muhammad Jalandhry",
+      "source": "tanzil.net",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-fatehmuhammadja.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-fatehmuhammadja.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-mahmoodulhassan",
+      "author": "Mahmood Ul Hassan",
+      "source": "dailyayat.com",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-mahmoodulhassan.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-mahmoodulhassan.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-muhammadhussain",
+      "author": "Muhammad Hussain Najafi",
+      "source": "tanzil.net",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadhussain.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-muhammadhussain.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-muhammadjunagar-la",
+      "author": "Muhammad Junagarhi",
+      "source": "quranraj.com",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar-la.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-muhammadjunagar-la.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-muhammadjunagar",
+      "author": "Muhammad Junagarhi",
+      "source": "tanzil.net",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-muhammadjunagar.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-muhammadjunagar1",
+      "author": "Muhammad Junagarhi, Muhammad Kazim",
+      "source": "",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-muhammadjunagar1.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-muhammadkaramsh",
+      "author": "Muhammad Karam Shah Al Azhari",
+      "source": "dailyayat.com",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadkaramsh.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-muhammadkaramsh.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-muhammadtahirul",
+      "author": "Muhammad Tahir Ul Qadri",
+      "source": "irfan-ul-quran.com",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadtahirul.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-muhammadtahirul.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-muhammadtaqiusm",
+      "author": "Muhammad Taqi Usmani",
+      "source": "",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadtaqiusm.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-muhammadtaqiusm.min.json",
+      "status": "pending-download"
+    },
+    {
+      "id": "urd-syedzeeshanhaid",
+      "author": "Syed Zeeshan Haider Jawadi",
+      "source": "tanzil.net",
+      "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-syedzeeshanhaid.min.json",
+      "output": "data/upstream/quran-fawaz/urdu/urd-syedzeeshanhaid.min.json",
+      "status": "pending-download"
+    }
+  ]
+}
