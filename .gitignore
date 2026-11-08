@@ -1,2 +1,6 @@
 node_modules/
 .env
+
+# Raw upstream datasets are fetched locally and are not committed.
+data/upstream/
+data/upstream-manifests/generated/
