@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "policy": "raw-source-isolation",
+  "inspected_at": "2026-11-08",
+  "sources": [
+    {
+      "id": "fawaz-quran-api",
+      "name": "Fawaz Quran API",
+      "repository": "https://github.com/fawazahmed0/quran-api",
+      "branch": "1",
+      "inspected_commit": "93e6f64925ae76273520d636fcaaf061129f2316",
+      "repository_license": "Unlicense",
+      "role": "Raw Quran editions, translations and metadata",
+      "local_path": "data/upstream/fawaz-quran-api",
+      "notes": "Keep edition identifiers and source attribution. Verify individual translation/source rights before redistribution."
+    },
+    {
+      "id": "fawaz-hadith-api",
+      "name": "Fawaz Hadith API",
+      "repository": "https://github.com/fawazahmed0/hadith-api",
+      "branch": "1",
+      "inspected_commit": "df57907be35291c91ad6a6691180e22ca9920784",
+      "repository_license": "Unlicense",
+      "role": "Raw Hadith editions, translations and metadata",
+      "local_path": "data/upstream/fawaz-hadith-api",
+      "notes": "Keep collection, edition, numbering and grading provenance separate."
+    },
+    {
+      "id": "alquran-cloud",
+      "name": "AlQuran Cloud API",
+      "base_url": "https://api.alquran.cloud/v1",
+      "role": "Supplementary Quran API source",
+      "snapshot_status": "not-yet-imported",
+      "notes": "Hosted API, not a Git repository. Create a dated snapshot only after endpoint and attribution review."
+    }
+  ]
+}
